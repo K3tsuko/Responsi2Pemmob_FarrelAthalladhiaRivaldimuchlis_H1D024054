@@ -1,6 +1,17 @@
 # Aplikasi Cuaca Flutter (Open-Meteo)
 
-Aplikasi pemantau cuaca berbasis **Flutter (Dart)** yang dikembangkan untuk tugas **Responsi Pemrograman Mobile**. Aplikasi ini mengambil data cuaca terkini dan prakiraan 7 hari secara *real-time* dari **Open-Meteo API**, menerapkan arsitektur **MVVM** dengan `Provider`, serta menyimpan lokasi favorit, riwayat pencarian, dan kota terakhir secara lokal menggunakan `SharedPreferences`.
+- **Nama:** Farrel Athalladhia Rivaldimuchlis
+- **NIM:** H1D024054
+- **Mata Kuliah:** Pemrograman Mobile — Responsi Flutter
+- **Video Penjelasan Kode:** [Tonton di YouTube](https://youtu.be/m-g-aTRbd3I)
+
+Aplikasi pemantau cuaca berbasis **Flutter (Dart)** yang dikembangkan untuk tugas **Responsi Flutter**. Aplikasi ini mengambil data cuaca terkini dan prakiraan 7 hari secara *real-time* dari **Open-Meteo API**, menerapkan arsitektur **MVVM** dengan `Provider`, serta menyimpan lokasi favorit, riwayat pencarian, dan kota terakhir secara lokal menggunakan `SharedPreferences`.
+
+## Video Penjelasan & Demo Aplikasi
+
+Penjelasan struktur proyek, alur arsitektur MVVM, integrasi REST API Open-Meteo, penyimpanan lokal (`SharedPreferences`), dan demo aplikasi dapat dilihat melalui tautan berikut:
+
+▶️ **YouTube:** [https://youtu.be/m-g-aTRbd3I](https://youtu.be/m-g-aTRbd3I)
 
 ## Fitur Utama
 
